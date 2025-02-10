@@ -1,6 +1,7 @@
 # **Software Architecture and Design (CMP020N207S)**
 
-## Group Member Details:
+## G4-SAD
+### Group Member Details:
 
 - Mohammad Rohan - ROH22609719 [GitHub Profile](https://github.com/rohanxco)
 - Safiyyah Zahid - ZAH23590541 [GitHub Profile](https://github.com/safzhd)
